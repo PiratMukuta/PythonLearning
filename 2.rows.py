@@ -1,4 +1,6 @@
-# Page 20
+import this
+
+# Page 20-35
 
 print("Hi I am Nikita")
 print("Hi, I'm Nikita")
@@ -29,3 +31,32 @@ print(f"Hello, {full_name.upper()} !")
 message = "{} {}".format(first_name,last_name)
 print(message)
 #In result i get Nikita Pirat
+
+#Special symbols for arrays
+print("\tPython")
+#\t - Tab
+#\n -New Line
+
+favorite_lang =' python#$%#'
+print(favorite_lang.rstrip())
+
+#integer
+print(2*2)
+print(2**3)
+print((2+3)*4)
+print(0.2+0.3)
+print(0.3*23)
+print(2/4)
+
+#For long number we can use _
+
+univerce_age = 14_000_000_000
+print(univerce_age)
+#python will show 14000000000
+
+x,y,z = 0,0,0;
+print(x,y,z)
+#in result i get 0 0 0
+
+#for using CONSTANT value should use capital letters because python don't have any build-in velues for const
+FIRST_NUMBER = 100
