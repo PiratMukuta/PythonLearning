@@ -1,6 +1,6 @@
 import this
-
 # Page 20-35
+#Data 04.08.2023
 
 print("Hi I am Nikita")
 print("Hi, I'm Nikita")
